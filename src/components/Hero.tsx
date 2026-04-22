@@ -52,7 +52,7 @@ export default function Hero() {
       </div>
 
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 text-accent/30 hidden lg:block">
-        <span className="text-[10px] uppercase tracking-[0.3em] font-bold">Scroll Down</span>
+        <span className="text-[10px] uppercase tracking-[0.3em] font-bold">Przewiń w dół</span>
       </div>
     </section>
   );
