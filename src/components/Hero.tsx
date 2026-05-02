@@ -39,7 +39,7 @@ export default function Hero() {
           <div className="w-full max-w-[500px] aspect-[4/5] bg-accent-light rounded-t-[250px] border border-accent/20 overflow-hidden relative group">
             <div className="absolute inset-0 bg-accent/5 z-10" />
             <img 
-              src="https://scontent-waw2-2.xx.fbcdn.net/v/t51.82787-15/559416618_18093942274770958_5746697178324289551_n.jpg?stp=dst-jpegr_tt6&_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=4r5hUyGmUuIQ7kNvwFxpC-5&_nc_oc=AdpjlZRcBmTGw7P40pDPjjgchFITMJc8j-rGhffOaLBUUVh_n24_GbBvJfr2yELFBxE&_nc_zt=23&se=-1&_nc_ht=scontent-waw2-2.xx&_nc_gid=XtK8hptgTqdYHGqxk--iaQ&_nc_ss=7a3a8&oh=00_Af1s81ZCIJa7HaBr0-4l0JObClQEsBw7byGZapIg4-CrUQ&oe=69EE3032" 
+              src="https://scontent-waw2-2.xx.fbcdn.net/v/t51.82787-15/559416618_18093942274770958_5746697178324289551_n.jpg?stp=dst-jpegr_tt6&_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=PHEGrACpqssQ7kNvwGks4Kt&_nc_oc=AdoE5kAf5dNqT33_3qHCkopxYCqiSEZnlLo_H1O_IGqNcsvpPi55hIcaPEmdNr2Glfg&_nc_zt=23&se=-1&_nc_ht=scontent-waw2-2.xx&_nc_gid=5tC3kCvd7JlenvfYC3izgw&_nc_ss=7b2a8&oh=00_Af5nddHyTx9rZWZ846doLYpD6hUAqaznpL3vt8O692CDIQ&oe=69FB9772" 
               alt="Sala Sajnówka" 
               className="w-full h-full object-cover grayscale-[0.2] transition-transform duration-1000 group-hover:scale-110"
               referrerPolicy="no-referrer"
